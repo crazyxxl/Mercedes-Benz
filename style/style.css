@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #070A1B;
+}
+.header{
+    max-width: 1920;
+    height: 78px;
+    display: flex;
+    background: #070A1B;
+    justify-content: center;
+    align-items: center;
+}
+.fa-bars{
+    font-size: 30px;
+    color: white;
+    font-weight: lighter;
+    margin-right: 400px;
+}
+.header_title{
+    font-size: 40px;
+    color: white;
+}
+.fa-twitter-square{
+    color: white;
+    font-size: 30px;
+    margin-left: 278px;
+    margin-right: 30px;
+}
+.fa-google{
+    color: white;
+    font-size: 30px;
+    margin-right: 30px;
+}
+.fa-facebook-square{
+       color: white;
+    font-size: 30px; 
+}
+.title_header{
+    height: 800px;
+    background: url(../images/header.png) center/cover;
+}
+.title{
+    font-size: 72px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: white;
+    text-align: center;
+    font-weight: 700;
+    padding-top: 631px;
+}
+.poragraf{
+    font-size: 24px;
+    color: white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-weight: 400;
+    text-align: center;
+}
+.mlogo{
+    width: 120px;
+    margin-left: 700px;
+    margin-top: -40px;
+}
+.main_title{
+    font-size: 18px;
+    color: #F402A2;
+    margin-bottom: 25px;
+
+}
+.main_text{
+    font-size: 24px;
+    color: white;
+    max-width: 900px;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+.main_item{
+    margin-left: 440px;
+    margin-top: 150px;
+}
+.left_title{
+    font-size: 18px;
+    color: #F402A2;
+    margin-top: 150px;
+    margin-bottom: 25px;
+}
+.left_text{
+    font-size: 16px;
+    color: white;
+    width: 570px;
+    margin-bottom: 25px;
+    line-height: 120%;
+}
+.button{
+    width: 570px;
+    height: 50px;
+    border: 1px solid  #F402A2;
+    text-decoration: none;
+    color: #F402A2;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 14px;
+    margin-top: 25px;
+}
+.left_img{
+    width: 570px;
+    height: 400px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+}
+.right{
+    margin-left: 61px;
+}
+.right_img{
+    margin-top: 151px;
+
+}
+.right_text{
+    font-size: 16px;
+    color: white;
+    width: 569px;
+    line-height: 120%;
+    margin-top: 21px;
+}
+.content{
+    display: flex;
+    margin-left: 145px;
+}
+.vido{
+    display: flex;
+    flex-direction: column;
+}
+.main4{
+    width: 1200px;
+    height: 600px;
+    margin-top: 153px;
+    margin-bottom: 25px;
+    margin-left: 148px;
+}
+.buttonn{
+    width: 1200px;
+    height: 50px;
+    border: 1px solid  #F402A2;
+    text-decoration: none;
+    color: #F402A2;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 15px;
+    margin-left: 148px;
+    margin-bottom: 150px;
+}
+.left1_title{
+    font-size: 18px;
+    color: #F402A2;
+    margin-bottom: 25px;
+}
+.left1_text{
+    width: 255px;
+    font-size: 16px;
+    color: white;
+    line-height: 19.2px;
+}
+.right1img{
+    margin-left: 44px;
+    margin-bottom: 94px;
+}
+.item1{
+    display: flex;
+    margin-bottom: 100px;
+}
+.item1_text{
+    width: 255px;
+    font-size: 16px;
+    color: white;
+    line-height: 19.2px;
+    margin-left: 44px;
+    margin-right: 317px;
+}
+.slide{
+    display: flex;
+    justify-content: space-around;
+}
+.content1{
+    text-align: center;
+    margin-bottom: 150px;
+}
+.content1 .img1{
+    margin-left: 60px;
+    margin-top: 25px;
+}
+.content_text1{
+    width: 255px;
+    color: white;
+    font-size: 16px;
+    margin-right: 60px;
+    line-height: 19.2px;
+}
+.content_text2{
+    width: 255px;
+    color: white;
+    font-size: 16px;
+    line-height: 19.2px;
+}
+.content2{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+.m_footer{
+    width: 1530px;
+    height: 900px;
+    background: url(../images/main_footer.png) center/cover;
+    object-fit: cover;
+}
+.politika{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-left: 260px;
+    margin-right: 145px;
+}
+.logo12{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    height: 300px;
+}
